@@ -1,4 +1,4 @@
-![Rachel Tucker](pixelated-computer.jpg)
+![Rachel Tucker](pixelated-computer-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Rachel Tucker</h1>
 <h3 align="center">A well-rounded Software Engineer with a knack for all things Data.</h3>
