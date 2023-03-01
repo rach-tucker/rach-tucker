@@ -1,4 +1,4 @@
-![Rachel Tucker](https://github.com/images/computer.gif)
+![Rachel Tucker](https://github.com/computer.gif)
 
 <h1 align="center">Hi 👋, I'm Rachel Tucker</h1>
 <h3 align="center">A well-rounded Software Engineer with a knack for all things Data.</h3>
