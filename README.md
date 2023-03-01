@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **itsracheltucker@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/its-rachel-tucker/](https://www.linkedin.com/in/its-rachel-tucker/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rachel-tucker](https://www.linkedin.com/in/its-rachel-tucker/details/experience/)
 
 - ⚡ Fun fact **I have two miniature schnauzers!**
 
