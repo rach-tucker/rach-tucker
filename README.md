@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Rachel Tucker</h1>
 <h3 align="center">A well-rounded Software Engineer with a knack for all things Data.</h3>
 
-- 🌱 I’m currently learning **Pandas and Numpy**
-
 - 📫 How to reach me **itsracheltucker@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rachel-tucker](https://www.linkedin.com/in/its-rachel-tucker/details/experience/)
